@@ -1,0 +1,2 @@
+1. commit les codes sur github
+2. tester avec pickle

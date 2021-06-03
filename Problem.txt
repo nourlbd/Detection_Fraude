@@ -1,0 +1,4 @@
+1. PHP ne peut pas marcher avec import
+2. SMOTE(ratio) ne fonctionne pas
+3. Un dossier SAV s'est créé pour logreg(on ne sait pas comment) vu qu'il y avait l'erreur du dessus. 
+Mais on n'y arrive pas pour les autres modèles
